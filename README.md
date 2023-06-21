@@ -2,7 +2,6 @@
 Personal Portfolio page for Christiana Bond - Project for the MIT XPro Professional Certificate in Coding: Full Stack Development, MERN emphasis.
 
 # Projects
-<br>
 <a href="https://christianabond.github.io/Eyes">Eyes-A-Moving</a>
 <br>
 <a href="https://christianabond.github.io/PacManFactory">PacMan Factory</a>
