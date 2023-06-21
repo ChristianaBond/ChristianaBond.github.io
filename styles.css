@@ -61,6 +61,10 @@ a:visited:hover {
     color: #66999B;
 }
 
+.nav-link a:active {
+    background-color: #666d84;
+}
+
 .the-nav-bar {
     background: transparent;
     width: 100%;
