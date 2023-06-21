@@ -6,7 +6,7 @@ Personal Portfolio page for Christiana Bond - Project for the MIT XPro Professio
 <br>
 <a href="https://christianabond.github.io/PacManFactory">PacMan Factory</a>
 <br>
-<a href="https://christianabond.github.io/RealtimeBusTracker">Realtime Bus Tracker</a>
+<a href="https://christianabond.github.io/RealTimeBusTracker">Realtime Bus Tracker</a>
 
 # License Information
 The contents of this repository are licensed.
